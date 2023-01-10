@@ -29,7 +29,7 @@ favorite pokemons and change pages to see all pokemons that pokeAPI returns
 - Javascript
 - PokeAPI
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#pokedex)
 
 ---
 
@@ -67,4 +67,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#pokedex)
